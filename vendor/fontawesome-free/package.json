@@ -2,7 +2,7 @@
   "_args": [
     [
       "@fortawesome/fontawesome-free@5.10.2",
-      "C:\\Users\\shiva\\Desktop\\Evcs_adminPanel"
+      "C:\\Users\\shiva\\Desktop\\latest\\Evcs_adminPanel"
     ]
   ],
   "_from": "@fortawesome/fontawesome-free@5.10.2",
@@ -27,7 +27,7 @@
   ],
   "_resolved": "https://registry.npmjs.org/@fortawesome/fontawesome-free/-/fontawesome-free-5.10.2.tgz",
   "_spec": "5.10.2",
-  "_where": "C:\\Users\\shiva\\Desktop\\Evcs_adminPanel",
+  "_where": "C:\\Users\\shiva\\Desktop\\latest\\Evcs_adminPanel",
   "author": {
     "name": "Dave Gandy",
     "email": "dave@fontawesome.com",
